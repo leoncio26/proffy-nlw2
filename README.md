@@ -4,17 +4,23 @@ Aplicação feita na Next Level Week 02
 # Tecnologias usadas
 
 # Aplicação Web 
--ReactJs
--Typescript
+<ul>
+  <li>ReactJs</li>
+  <li>Typescript</li>
+</ul>
 
 # Server
--Node
--Express
--Typescript
--Sqlite
--axios
+<ul>
+  <li>Node</li>
+  <li>Express</li>
+  <li>Typescript</li>
+  <li>Sqlite</li>
+  <li>Axios</li>
+</ul>
 
 # Aplicação Mobile
--React Native
--Expo
--Typescript
+<ul>
+  <li>React Native</li>
+  <li>Expo</li>
+  <li>Typescript</li>
+</ul>
