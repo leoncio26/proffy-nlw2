@@ -1,20 +1,20 @@
-# proffy-nlw2
+# Proffy- NLW2
 Aplicação feita na Next Level Week 02
 
-#Tecnologias usadas
+# Tecnologias usadas
 
-#Aplicação Web 
+# Aplicação Web 
 -ReactJs
 -Typescript
 
-#Server
+# Server
 -Node
 -Express
 -Typescript
 -Sqlite
 -axios
 
-#Aplicação Mobile
+# Aplicação Mobile
 -React Native
 -Expo
 -Typescript
