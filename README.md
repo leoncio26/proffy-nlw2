@@ -1,15 +1,15 @@
 # Proffy- NLW2
 Aplicação feita na Next Level Week 02
 
-# Tecnologias usadas
+<h2>Tecnologias usadas</h2>
 
-# Aplicação Web 
+<h5>Aplicação Web</h5> 
 <ul>
   <li>ReactJs</li>
   <li>Typescript</li>
 </ul>
 
-# Server
+<h5>Server</h5>
 <ul>
   <li>Node</li>
   <li>Express</li>
@@ -18,7 +18,7 @@ Aplicação feita na Next Level Week 02
   <li>Axios</li>
 </ul>
 
-# Aplicação Mobile
+<h5>Aplicação Mobile</h5>
 <ul>
   <li>React Native</li>
   <li>Expo</li>
